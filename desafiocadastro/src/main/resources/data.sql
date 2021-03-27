@@ -1,0 +1,11 @@
+INSERT INTO USUARIO(nome, email, data) VALUES('Felippe', 'felippe@email.com.br', '2021-03-27 19:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Matheus', 'matheus@email.com.br', '2021-03-27 20:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Rodrigo', 'rodrigo@email.com.br', '2021-03-27 21:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Rachel', 'rachel@email.com.br', '2021-03-27 22:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Valentina', 'valentina@email.com.br', '2021-03-27 23:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Pedro', 'pedro@email.com.br', '2021-03-27 13:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Leando', 'leandro@email.com.br', '2021-03-27 14:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Ana Laura', 'analaura@email.com.br', '2021-03-27 15:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Stefani', 'stefani@email.com.br', '2021-03-27 16:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Gabriel', 'gabriel@email.com.br', '2021-03-27 17:00:00');
+INSERT INTO USUARIO(nome, email, data) VALUES('Francisco', 'francisco@email.com.br', '2021-03-27 18:00:00');
